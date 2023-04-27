@@ -1,0 +1,10 @@
+bin/
+lib/
+*.exe
+*.dll
+Debug/
+
+Release/
+*.o
+build*/
+*.xlsm
